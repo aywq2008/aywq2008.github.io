@@ -1,6 +1,6 @@
 .pub {
     /* We use padding instead of margin so there's no gap when hovering */
-    padding-bottom: 10px;
+    padding-bottom: 12px;
 }
 
 .pub-title {
@@ -8,7 +8,7 @@
 }
 
 .pub-author, .pub-in {
-    font-size: 85%;
+    font-size: 90%;
 }
 
 .pub-links a, .pub-expand a {
